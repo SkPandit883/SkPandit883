@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on All Store Sys and ScholarSpace
-🌱 I’m currently learning Basic SEO
+###🔭 I’m currently working on All Store Sys and ScholarSpace
+###🌱 I’m currently learning Basic SEO
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
