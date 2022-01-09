@@ -71,6 +71,6 @@
 <a href="https://github.com/SkPandit883">
   <img height='30' src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
+</a>
