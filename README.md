@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on Pulamiz Technology and ScholarSpace
 - 🌱 I’m currently learning Basic SEO
-- 👯 I’m looking to collaborate on Larvel ...
+- 👯 I’m looking to collaborate on Laravel ...
 - 💬 Ask me about Php/Laravel
 - 📫 How to reach me: skpandit659@gmail.com
 - ⚡ Fun fact: Too Shy
