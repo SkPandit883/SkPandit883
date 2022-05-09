@@ -4,7 +4,7 @@
 
 
 
-🔭 I’m currently working on Pulamiz Technology and ScholarSpace
+🔭 I’m currently working on Pulamiz Technology
 - 🌱 I’m currently learning Basic SEO
 - 👯 I’m looking to collaborate on Laravel ...
 - 💬 Ask me about Php/Laravel
