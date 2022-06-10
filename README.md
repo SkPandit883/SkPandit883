@@ -66,7 +66,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=SkPandit883&count_private=true&show_icons=true&theme=radical&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SkPandit883)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SkPandit883)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://github.com/SkPandit883">
   <img height='30' src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
