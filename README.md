@@ -42,7 +42,7 @@
 <img src="https://img.icons8.com/color/24/000000/react-native.png"/>
 </a>
 <a href="https://github.com/SkPandit883">
-  <img src="https://img.icons8.com/color/24/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>
 </a>
 <a href="https://github.com/SkPandit883">
 <img src="https://img.icons8.com/color/24/000000/html-5.png"/>
