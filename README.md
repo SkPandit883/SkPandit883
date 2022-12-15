@@ -4,9 +4,9 @@
 
 
 
-🔭 I’m currently working on Pulamiz Technology
+-🔭 I’m currently working on Tradein Solutions
 - 🌱 I’m currently learning Basic SEO
-- 👯 I’m looking to collaborate on Laravel ...
+- 👯 I’m looking to collaborate on Laravel and VueJS ...
 - 💬 Ask me about Php/Laravel
 - 📫 How to reach me: skpandit659@gmail.com
 - ⚡ Fun fact: Too Shy
