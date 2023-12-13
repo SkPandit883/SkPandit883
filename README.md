@@ -5,11 +5,9 @@
 
 
 -🔭 I’m currently working on Tradein Solutions
-- 🌱 I’m currently learning Basic SEO
 - 👯 I’m looking to collaborate on Laravel and VueJS ...
-- 💬 Ask me about Php/Laravel
+- 💬 Ask me about Php/Laravel and vuejs
 - 📫 How to reach me: skpandit659@gmail.com
-- ⚡ Fun fact: Too Shy
 
 ### Keep In Touch
 <a href="https://www.facebook.com/profile.php?id=100023969507395">
